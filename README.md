@@ -2,7 +2,7 @@
  
  ### Description
 
-This Node.JS web app is built using Node.JS and MongoDB.
+This Node.JS web app is built using Node.JS and mongoDB.
 
 ### App Screenshots
 <p>
