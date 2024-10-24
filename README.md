@@ -6,10 +6,11 @@ This Node.JS web app is built using Node.JS and MongoDB.
 
 ### App Screenshots
 <p>
-   <img src="https://github.com/dmansour2000/android-kotlin-cleanarchitecture/blob/master/screenshots/Screenshot_20241023_101447.png", width="150" hspace="4"/>
-   <img src="https://github.com/dmansour2000/android-kotlin-cleanarchitecture/blob/master/screenshots/Screenshot_20241023_101303.png", width="150" hspace="4"/>
-   <img src="https://github.com/dmansour2000/android-kotlin-cleanarchitecture/blob/master/screenshots/Screenshot_20241023_101415.png", width="150" hspace="4"/>
-
+   <img src="https://github.com/dmansour2000/nodejs_sample_site/blob/master/screenshots/Screenshot%202024-10-23%20at%2011.17.26%E2%80%AFPM.png", width="500" hspace="4"/>
+</p>
+   <img src="https://github.com/dmansour2000/nodejs_sample_site/blob/master/screenshots/Screenshot%202024-10-23%20at%2011.18.16%E2%80%AFPM.png", width="500" hspace="4"/>
+   </p>
+   <img src="https://github.com/dmansour2000/nodejs_sample_site/blob/master/screenshots/Screenshot%202024-10-23%20at%2011.18.29%E2%80%AFPM.png", width="500" hspace="4"/>
 </p>
 
 
